@@ -1,0 +1,426 @@
+.log-in-page {
+    background-color: #fefcfc;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .log-in-page .div {
+    background-color: #fefcfc;
+    overflow: hidden;
+    width: 1280px;
+    height: 720px;
+    position: relative;
+  }
+  
+  .log-in-page .vector {
+    position: absolute;
+    width: 13px;
+    height: 69px;
+    top: 1747px;
+    left: 2024px;
+  }
+  
+  .log-in-page .overlap {
+    position: absolute;
+    width: 1243px;
+    height: 756px;
+    top: -36px;
+    left: -17px;
+  }
+  
+  .log-in-page .image {
+    position: absolute;
+    width: 1017px;
+    height: 756px;
+    top: 0;
+    left: 0;
+  }
+  
+  .log-in-page .overlap-group {
+    position: relative;
+    height: 720px;
+    top: 36px;
+  }
+  
+  .log-in-page .rectangle {
+    position: absolute;
+    width: 1000px;
+    height: 720px;
+    top: 0;
+    left: 17px;
+  }
+  
+  .log-in-page .image-2 {
+    position: absolute;
+    width: 657px;
+    height: 559px;
+    top: 84px;
+    left: 0;
+  }
+  
+  .log-in-page .group {
+    position: absolute;
+    width: 661px;
+    height: 56px;
+    top: 503px;
+    left: 0;
+  }
+  
+  .log-in-page .leading-data {
+    position: absolute;
+    width: 642px;
+    top: 0;
+    left: 15px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .text-wrapper {
+    color: #002136;
+  }
+  
+  .log-in-page .span {
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 18px;
+    letter-spacing: 0;
+  }
+  
+  .log-in-page .text-wrapper-2 {
+    color: #121142;
+  }
+  
+  .log-in-page .log-in-to-get-free {
+    position: absolute;
+    width: 355px;
+    height: 16px;
+    top: 45px;
+    left: 147px;
+  }
+  
+  .log-in-page .img {
+    position: absolute;
+    width: 457px;
+    height: 444px;
+    top: 0;
+    left: 78px;
+  }
+  
+  .log-in-page .frame {
+    position: absolute;
+    width: 453px;
+    height: 615px;
+    top: 90px;
+    left: 790px;
+    background-color: #fdfcfc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 5px 5px 20px -5px #e4eaed, -5px -5px 20px -5px #e4eaed;
+  }
+  
+  .log-in-page .group-2 {
+    position: relative;
+    width: 461px;
+    height: 531px;
+    top: 42px;
+  }
+  
+  .log-in-page .p {
+    position: absolute;
+    width: 453px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--colors-primary-text-color);
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .text-wrapper-3 {
+    position: absolute;
+    width: 186px;
+    top: 264px;
+    left: 49px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--colors-secondary-text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .don-t-have-an {
+    position: absolute;
+    width: 310px;
+    top: 511px;
+    left: 67px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--colors-secondary-text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .text-wrapper-4 {
+    color: #45455b;
+  }
+  
+  .log-in-page .text-wrapper-5 {
+    color: #3c93fa;
+    text-decoration: underline;
+  }
+
+  .log-in-page .text-wrapper-5:hover {
+    cursor: pointer;
+  }
+  
+  .log-in-page .text-wrapper-6 {
+    font-family: "Inter-Regular", Helvetica;
+    color: #45455b;
+  }
+  
+  .log-in-page .overlap-2 {
+    position: absolute;
+    width: 410px;
+    height: 18px;
+    top: 385px;
+    left: 19px;
+  }
+  
+  .log-in-page .text-wrapper-7 {
+    position: absolute;
+    width: 159px;
+    top: 0;
+    left: 127px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--colors-secondary-text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .log-in-page .group-3 {
+    position: absolute;
+    width: 410px;
+    height: 1px;
+    top: 13px;
+    left: 0;
+  }
+  
+  .log-in-page .line {
+    left: 0;
+    position: absolute;
+    width: 116px;
+    height: 1px;
+    top: -1px;
+    object-fit: cover;
+  }
+  
+  .log-in-page .line-2 {
+    left: 294px;
+    position: absolute;
+    width: 116px;
+    height: 1px;
+    top: -1px;
+    object-fit: cover;
+  }
+  
+  .log-in-page .email {
+    position: absolute;
+    width: 357px;
+    height: 79px;
+    top: 74px;
+    left: 49px;
+  }
+  
+  .log-in-page .div-wrapper {
+    position: absolute;
+    width: 353px;
+    height: 50px;
+    top: 29px;
+    left: 0;
+    background-color: #fdfcfc;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #c2c9e4;
+  }
+  
+  .log-in-page .text-wrapper-8 {
+    position: absolute;
+    width: 256px;
+    top: 14px;
+    left: 20px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--colors-grey-4);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .email-address {
+    position: absolute;
+    width: 168px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--colors-secondary-text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .password {
+    position: absolute;
+    width: 357px;
+    height: 79px;
+    top: 171px;
+    left: 49px;
+  }
+  
+  .log-in-page .overlap-3 {
+    position: absolute;
+    width: 353px;
+    height: 50px;
+    top: 29px;
+    left: 0;
+    background-color: #fdfcfc;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #c2cae5;
+  }
+  
+  .log-in-page .text-wrapper-9 {
+    position: absolute;
+    width: 282px;
+    top: 14px;
+    left: 20px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--colors-grey-4);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .email-address-2 {
+    position: absolute;
+    width: 312px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--colors-secondary-text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .log-in-page .CTA {
+    position: absolute;
+    width: 355px;
+    height: 50px;
+    top: 317px;
+    left: 49px;
+  }
+  
+  .log-in-page .overlap-4 {
+    position: relative;
+    width: 353px;
+    height: 50px;
+    background-color: #ea7369;
+    border-radius: 6px;
+  }
+
+  .log-in-page .overlap-4:hover {
+    cursor: pointer;
+  }
+  
+  .log-in-page .text-wrapper-10 {
+    position: absolute;
+    width: 353px;
+    top: 17px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .log-in-page .overlap-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 355px;
+    height: 50px;
+    top: 436px;
+    left: 49px;
+  }
+  
+  .log-in-page .overlap-5 {
+    position: relative;
+    width: 353px;
+    height: 50px;
+    background-color: #1a73e8;
+    border-radius: 6px;
+  }
+
+  .log-in-page .overlap-5:hover {
+    cursor: pointer;
+  }
+  
+  .log-in-page .google-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 5px;
+    left: 5px;
+    background-color: #ffffff;
+  }
+  
+  .log-in-page .google {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .log-in-page .text-wrapper-11 {
+    position: absolute;
+    width: 45px;
+    top: 89px;
+    left: 313px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  input
+{
+  font-size: large;
+  padding-left: 20px;
+}
